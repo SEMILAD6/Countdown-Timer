@@ -1,0 +1,57 @@
+ 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: lightgrey;
+}
+.pic-style{
+position: unset;
+width: 37rem;
+float: left;
+padding: 9rem 0 0 2rem;
+}
+.iphone-text{
+padding: 8rem 12rem 0 0;
+text-align: right;
+font-size: 2rem;
+}
+.give-text{
+text-align: right;
+padding: 0 0 0 13.3rem;
+}
+.lor-em{
+font-size: 2.0rem;
+float: right;
+width: 42rem;
+font-family: Arial, Helvetica, sans-serif;
+word-spacing: 1.2rem;
+margin-bottom: 0rem;
+
+}
+.count{ 
+  display: flex;
+  width: 50%;
+  margin-top: 0px;
+  padding: 0 0 400px 1165px;
+  float: right;
+ 
+  }
+  .count-format{
+  display: flex;
+  width: 20%;
+  font-size: 23px; 
+  font-weight: bold;
+  margin-left: 35px;
+  margin-bottom: 600px;
+  
+  }
+  .count-format h4{
+  font-size: 70px;
+  font-weight: bold;
+  margin: 0px;
+  background-color: lightgrey;
+  }
